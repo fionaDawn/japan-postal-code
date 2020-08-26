@@ -1,20 +1,20 @@
 {
-  "name": "japan-postal-code",
-  "version": "0.2.0",
-  "description": "Japan postal code library",
+  "name": "japan-postal-code-fetch",
+  "version": "0.1.0",
+  "description": "Japan postal code library that uses fetch instead of jsonp",
   "main": "index.js",
   "repository": {
     "type": "git",
-    "url": "https://github.com/mzp/japan-postal-code"
+    "url": "https://github.com/fionaDawn/japan-postal-code"
   },
   "keywords": [
     "zip",
     "postal code"
   ],
-  "author": "mzp",
+  "author": "fionaDawn",
   "license": "MIT License",
   "bugs": {
-    "url": "https://github.com/mzp/japan-postal-code/issues"
+    "url": "https://github.com/fionaDawn/japan-postal-code/issues"
   },
   "devDependencies": {
     "expect.js": "~0.3.1",
